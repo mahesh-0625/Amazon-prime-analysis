@@ -6,4 +6,4 @@ This Power BI project provides an in-depth analysis of Amazon Prime Video’s co
 •Country Distribution
 •Movies vs TV Shows
 •Release Year Trends
-•Interactive Filtering & Slicing
+•Interactive Filtering & Slicing.
